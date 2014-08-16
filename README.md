@@ -1,0 +1,4 @@
+ResizePhotos
+============
+
+Simple photo resizer
