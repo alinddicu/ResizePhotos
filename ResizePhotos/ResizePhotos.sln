@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizePhotos", "ResizePhotos\ResizePhotos.csproj", "{6C1D779A-C9D5-422A-A5B4-C5F767145BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1D779A-C9D5-422A-A5B4-C5F767145BDF}.Debug|x86.ActiveCfg = Debug|x86
+		{6C1D779A-C9D5-422A-A5B4-C5F767145BDF}.Debug|x86.Build.0 = Debug|x86
+		{6C1D779A-C9D5-422A-A5B4-C5F767145BDF}.Release|x86.ActiveCfg = Release|x86
+		{6C1D779A-C9D5-422A-A5B4-C5F767145BDF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

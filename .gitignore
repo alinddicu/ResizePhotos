@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ResizePhotos/ResizePhotos/bin/Debug
+/ResizePhotos/ResizePhotos/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ResizePhotos/ResizePhotos/obj/x86/Debug/ResizePhotos.csproj.FileListAbsolute.txt
+/ResizePhotos/ResizePhotos/obj/x86/Debug/ResizePhotos.csprojResolveAssemblyReference.cache
+/ResizePhotos/ResizePhotos/obj/x86/Debug/ResizePhotos.exe
+/ResizePhotos/ResizePhotos/obj/x86/Debug/ResizePhotos.pdb
