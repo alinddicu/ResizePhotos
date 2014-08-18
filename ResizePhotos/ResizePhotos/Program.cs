@@ -13,8 +13,8 @@ namespace ResizePhotos
         //private const string DEST_DIR = @"C:\Temp\photos\dest\";
         private const string SRC_DIR = @"C:\Temp\test\source\";
         private const string DEST_DIR = @"C:\Temp\test\dest\";
-        private const int DEST_WIDTH = 32;
-        private const int DEST_HEIGHT = 32;
+        private const int DEST_WIDTH = 600;
+        private const int DEST_HEIGHT = 300;
 
         static void Main(string[] args)
         {
